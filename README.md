@@ -1,4 +1,4 @@
-# Tarjeta Digital para mi mamá Helena 💝
+# Tarjeta Digital para mi mamá Elena 💝
 
 ## 🌟 Descripción
 
