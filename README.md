@@ -44,7 +44,7 @@ Simplemente abre el archivo index.html en tu navegador preferido.
 
 ## 💖 Mensaje Personal
 
-Para mi querida mamá Helena,
+Para mi querida mamá Elena,
 
 Este pequeño proyecto es más que unas líneas de código: es un pedacito de mi corazón puesto en algo que quiero compartir contigo.
 Gracias por tu amor incondicional, por tu fuerza, y por ser mi inspiración todos los días.
